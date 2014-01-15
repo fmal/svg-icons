@@ -10,7 +10,7 @@
     "gulp-svgmin": "~0.4.0",
     "gulp-rsvg": "~0.1.5",
     "gulp-rename": "~0.2.1",
-    "gulp-iconfont": "0.0.2",
+    "gulp-iconfont": "0.0.3",
     "gulp-imagemin": "0.1.4",
     "gulp-clean": "~0.2.2"
   }
