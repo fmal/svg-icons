@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Print</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M2.7457645e-09,160.001768 L3.91992216e-10,351.998232 C1.75532477e-10,369.67232 14.3292507,384 32.0036842,384 L479.996316,384 C497.671463,384 512,369.664719 512,351.998232 L512,160.001768 C512,142.32768 497.670749,128 479.996316,128 L32.0036842,128 C14.3285375,128 2.96222424e-09,142.335281 2.7457645e-09,160.001768 Z M96,448.000034 C96,465.673127 110.319145,480 128.000204,480 L383.999796,480 C401.673021,480 416,465.679696 416,448.000034 L416,384 L96,384 L96,448.000034 Z M128,448 L384,448 L384,320 L128,320 L128,448 Z M416,176 C416,184.836556 423.155321,192 432.00542,192 L463.99458,192 C472.83413,192 480,184.838499 480,176 C480,167.163444 472.844679,160 463.99458,160 L432.00542,160 C423.16587,160 416,167.161501 416,176 Z M96,96 L416,96 L416,32 L96,32 L96,96 Z" id="Print" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
