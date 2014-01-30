@@ -12,6 +12,7 @@
     "gulp-rename": "~0.2.1",
     "gulp-iconfont": "0.0.3",
     "gulp-imagemin": "0.1.4",
-    "gulp-clean": "~0.2.2"
+    "gulp-clean": "~0.2.2",
+    "gulp-cache": "~0.1.1"
   }
 }

@@ -8,7 +8,8 @@ var svgmin = require('gulp-svgmin'),
     rename = require('gulp-rename'),
     imagemin = require('gulp-imagemin'),
     iconfont = require('gulp-iconfont'),
-    clean = require('gulp-clean');
+    clean = require('gulp-clean'),
+    cache =  require('gulp-cache');
 
 var svgFiles = ['./originals/**/*.svg'];
 
@@ -59,7 +60,7 @@ gulp.task('optimize-png', function() {
         optimizationLevel: 7
     };
     gulp.src('./png/*.png')
-        .pipe(imagemin(options));
+        .pipe(cache(imagemin(options)));
 });
 
 /**
