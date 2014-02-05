@@ -1,3 +1,5 @@
+'use strict';
+
 var gulp = require('gulp');
 
 var pkg = require('./package.json');
@@ -79,5 +81,5 @@ gulp.task('iconfont', ['optimize'], function() {
 });
 
 gulp.task('default', function() {
-    gulp.run('clean', 'optimize', 'iconfont', 'png', 'optimize-png');
+    gulp.run('optimize', 'iconfont', 'png', 'optimize-png');
 });
