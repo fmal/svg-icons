@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Slice 1</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" fill="none" fill-rule="evenodd">
+        <path d="M449,480 L321,480 L321,352 L193,352 L193,480 L65,480 L65,288 C47.3243734,288 32.9999983,273.673058 32.9999981,256 L256.999998,64 L353,146.285715 L353,96 L417,96 L417,201.142858 L481,256 C481,273.673112 466.6645,288 449.005613,288 L449,480 Z M449,480" id="Home" fill="#000000"></path>
+    </g>
+</svg>

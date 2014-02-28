@@ -6,13 +6,14 @@
     "email": "crimhead@gmail.com"
   },
   "devDependencies": {
-    "gulp": "~3.2.2",
-    "gulp-svgmin": "~0.4.0",
-    "gulp-rsvg": "~0.1.5",
-    "gulp-rename": "~0.2.1",
-    "gulp-iconfont": "0.0.3",
-    "gulp-imagemin": "0.1.4",
-    "gulp-clean": "~0.2.2",
-    "gulp-cache": "~0.1.1"
+    "gulp": "~3.5.2",
+    "gulp-svgmin": "~0.4.4",
+    "gulp-svg2png": "~0.2.2",
+    "gulp-iconfont": "0.0.5",
+    "gulp-imagemin": "0.1.5",
+    "gulp-imacss": "~0.2.3",
+    "gulp-replace": "~0.2.0",
+    "event-stream": "~3.1.0",
+    "gulp-rimraf": "0.0.9"
   }
 }
