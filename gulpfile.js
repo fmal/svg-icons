@@ -70,7 +70,8 @@ gulp.task('clean-pngs', ['svg-removeViewBox'], function() {
 gulp.task('png-small', ['clean-pngs'], function() {
     return generatePng(pngConf.small);
 });
-gulp.task('png-med', ['clean-pngs'], function() {
+// running png-small and png-med async consumes too much resources
+gulp.task('png-med', ['clean-pngs', 'png-small'], function() {
     return generatePng(pngConf.med);
 });
 gulp.task('png', ['svg-removeViewBox', 'clean-pngs', 'png-small', 'png-med']);
