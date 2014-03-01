@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Cloud</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M320,416 C408.365564,416 480,344.365564 480,256 C480,167.634436 408.365564,96 320,96 C240.410811,96 174.394354,154.111742 162.066072,230.219784 C151.479062,226.200462 139.996504,224 128,224 C74.9806614,224 32,266.980661 32,320 C32,372.68601 74.4419277,415.459171 127.001212,415.994912 C127.000403,415.998307 224,416 224,416 L320,416 Z" id="Cloud" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

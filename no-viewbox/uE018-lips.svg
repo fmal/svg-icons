@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Lips</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M448,256 C447.999998,288 362.038677,384 256,384 C149.961323,384 63.9999979,288 64,256 C63.9999995,256 64,256 64,256 C63.9999981,227.285239 133.21712,147.036887 224.047147,130.862345 C234.438959,129.011825 256,152 256,152 C256,152 277.607677,129.01625 288.020951,130.874484 C378.817473,147.076995 447.999998,227.292416 448,256 L448,256 Z M384,256 C384,256 343.207589,210.443798 288.000643,196.202171 C277.772612,193.563667 269,207.999999 256,208 C243,208.000001 234.254654,193.559693 224.03837,196.192113 C168.811629,210.422334 128,256 128,256 C128,256 185.307549,320 256,320 C326.692451,320 384,256 384,256 Z" id="Lips" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
