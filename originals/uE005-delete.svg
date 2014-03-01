@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>Slice 1</title>
+    <title>Delete</title>
     <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
     <defs></defs>
-    <g id="Page 1" fill="none" fill-rule="evenodd">
-        <path d="M124.466631,448.199682 C126.418057,465.762513 142.335281,480 160.001768,480 L351.998232,480 C369.67232,480 385.581423,465.76719 387.533369,448.199682 L416,192 L96,192 L124.466631,448.199682 Z M160,96 L184,32 L328,32 L352,96 L416,96 C448,96 448,160 448,160 L256,160 L64,160 C64,160 64,96 96,96 L160,96 Z M192,96 L320,96 L304,64 L208,64 L192,96 Z M192,96" id="Delete" fill="#000000"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M160.001768,480 L351.998232,480 C369.67232,480 385.581423,465.76719 387.533369,448.199682 L416,192 L96,192 L124.466631,448.199682 C126.418057,465.762513 142.335281,480 160.001768,480 Z M96,96 C64,96 64,160 64,160 L448,160 C448,160 448,96 416,96 L352,96 L328,32 L184,32 L160,96 L96,96 Z M320,96 L304,64 L208,64 L192,96 L320,96 Z" id="Delete" fill="#000000" sketch:type="MSShapeGroup"></path>
     </g>
 </svg>

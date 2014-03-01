@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Download</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M95.9969832,448 L416.003017,448 C433.674463,448 448,433.676998 448,416 L448,320 L384,320 L384,375.991485 C384,380.421945 380.418279,384 376.000001,384 L136.005388,384 C131.584134,384 128,380.421945 128,375.991485 L128,320 L64,320 L64,416 C64,433.673112 78.3235467,448 95.9969832,448 Z M304,80.0001021 L304,192 L351.998232,192 C369.664719,192 375.04963,203.187963 364.008788,216.989015 L265.99063,339.511712 C260.480535,346.399332 251.527043,346.408803 246.00937,339.511712 L147.991212,216.989015 C136.949837,203.187296 142.32768,192 160.001768,192 L208,192 L208,80.0001021 C208,71.1595726 215.163754,64 224.000692,64 L287.999308,64 C296.843254,64 304,71.1634897 304,80.0001021 Z" id="Download" fill="#000000" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>
